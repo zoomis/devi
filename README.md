@@ -12,7 +12,7 @@ Goals
 * To describe working configurations of SAVI
 * To install all required software (MySQL, JDK7, Python27, Apache Ant and Ivy)
 * To install yak
-* To download all projects from SAVI repository based on configuration
+* To download all projects from SAVI-DEV repository based on configuration
 * To build all projects
 * To drop a database 'savicontroldb' and restore a database dump
 * To run using screen
